@@ -3,7 +3,7 @@ i'm vance and my pronouns are they/them/their
 
 i love meeting other devs, learning from each other, and cheering each other on! feel free to say hello anytime c:
 
-#### currently learning (as of March 2023)
+#### currently learning (as of August 2023)
 - working through [freeCodeCamp Responsive Web Dev certification](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 - hanging out with [Bad Website Club](https://badwebsite.club/)
 - brushing up on Python with [Codédex](http://www.codedex.io/)
