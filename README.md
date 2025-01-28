@@ -1,16 +1,13 @@
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@caesiumtea/30-nites-of-code)  
-  ![@caesiumtea #30NitesOfCode](https://www.codedex.io/api/petStatus?user=caesiumtea)
-
 ## hey what's up ✨
 i'm vance and my pronouns are they/them/their  
 
 i love meeting other devs, learning from each other, and cheering each other on! feel free to say hello anytime c:
 
-#### currently learning (as of January 2024)
+i haven't been very active in coding lately because i'm focusing more on my [art business](https://www.caesiumtea.com) these days!
+
+#### current & next steps
+- brushing up on JS with [Codédex](http://www.codedex.io/)
 - working through [freeCodeCamp Responsive Web Dev certification](https://www.freecodecamp.org/learn/2022/responsive-web-design)
-- teaching assistant with the [Bad Website Club bootcamp](https://badwebsite.club/)
-- brushing up on CSS and JS with [Codédex](http://www.codedex.io/)
 
 #### want to learn next
 - read [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) and make myself some practical tools
